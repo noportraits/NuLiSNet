@@ -1,3 +1,9 @@
+# Environment
+Python 3.11
+
+Pytroch 2.2.2
+
+Cuda 11.8
 ## Dataset
 Download link: https://drive.google.com/file/d/1MuQ04QupgWSrHK3FOvm2dyUzIIxyCwYM/view?usp=sharing
 
